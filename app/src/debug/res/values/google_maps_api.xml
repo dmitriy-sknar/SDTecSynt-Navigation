@@ -1,0 +1,6 @@
+<resources>
+    <!--web access-->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyBtmYQwdqwjRUJplnajurVy4AX9leE7oJQ</string>
+    <!--app access key-->
+    <!--<string name="google_maps_key" translatable="false" templateMergeStrategy="preserve"> AIzaSyCWa39dknpssXsagay_8tx6YTRgnnhzGEs </string>-->
+</resources>
